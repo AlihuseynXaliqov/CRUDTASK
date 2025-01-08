@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using AutoMapper;
 using Business.DTOs;
 using Business.Service.Interface;
+using Business.Utils.Exception;
 using Core.Entities;
 using DAL.Repo.Interface;
 
@@ -24,11 +25,8 @@ namespace Business.Service.Abstraction
 
         public async Task<CreateCategoryDTOs> CreateAsync(CreateCategoryDTOs dto)
         {
-            if (await categoryRepository.IsExist(x => x.Name == dto.Name) == null)
-            {
-                throw new Exception("hal hazirda bele catgoriya var ");
-
-            }
+           
+            
             var category = mapper.Map<Category>(dto);
             await categoryRepository.CreateAsync(category);
             await categoryRepository.SaveChangesAsync();
@@ -40,12 +38,12 @@ namespace Business.Service.Abstraction
         {
             if (id <= 0)
             {
-                throw new Exception("id-ni duzgun daxil edin");
+                throw new NegativIdException();
             }
             var dto = await categoryRepository.GetById(id);
             var category = mapper.Map<GetCategoryDto>(dto);
 
-            return category != null ? category : throw new Exception("Bu id-e uygun category movcud deyildir");
+            return category != null ? category : throw new NotFoundException<Category>();
         }
 
         public IQueryable<GetCategoryDto> GetAll()

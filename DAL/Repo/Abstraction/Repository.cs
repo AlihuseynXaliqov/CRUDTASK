@@ -32,9 +32,18 @@ namespace DAL.Repo.Abstraction
             Table.Update(entity);
         }
 
-        public IQueryable<TEntity> GetAll()
+        public IQueryable<TEntity> GetAll(params string[] includes)
         {
-            return Table.Where(x => !x.IsDeleted);
+            var query= Table.Where(x => !x.IsDeleted);
+            if(includes is not null)
+            {
+                foreach(var include in includes)
+                {
+                   query= query.Include(include);
+                }
+            }
+
+            return query;
         }
 
         public async Task<TEntity> GetById(int Id)

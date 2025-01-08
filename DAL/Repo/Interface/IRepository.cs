@@ -14,7 +14,7 @@ namespace DAL.Repo.Interface
         DbSet<TEntity> Table { get; }
 
         Task<TEntity> GetById(int id);
-        IQueryable<TEntity> GetAll();
+        IQueryable<TEntity> GetAll(params string[] includes);
         Task<TEntity> CreateAsync(TEntity entity);
         void Update(TEntity entity);
         void Delete(TEntity entity);

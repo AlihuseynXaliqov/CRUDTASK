@@ -1,205 +1,219 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\",
+  "WorkspaceRootPath": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|c:\\users\\smart\\source\\repos\\crudtask\\api\\globalhandlerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|solutionrelative:api\\globalhandlerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|c:\\users\\smart\\source\\repos\\crudtask\\api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|solutionrelative:api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\business\\service\\abstraction\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\service\\abstraction\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\business\\dtos\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\dtos\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\business\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\business\\dtos\\createcategorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\dtos\\createcategorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\business\\service\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\service\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\business\\dtos\\auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\dtos\\auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\business\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\business\\service\\abstraction\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\service\\abstraction\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\business\\service\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\service\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\business\\service\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\service\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\business\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\business\\addbusinessprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudtask\\business\\addbusinessprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\addbusinessprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\dal\\dalprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\dalprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\dal\\repo\\abstraction\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\abstraction\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|solutionrelative:core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|solutionrelative:core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\core\\entities\\tagsproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|solutionrelative:core\\entities\\tagsproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\business\\dtos\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\dtos\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\business\\service\\abstraction\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\service\\abstraction\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|solutionrelative:api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\dal\\repo\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\business\\dtos\\product\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\dtos\\product\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\business\\dtos\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\dtos\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|solutionrelative:core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\business\\dtos\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\dtos\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|solutionrelative:core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\dal\\repo\\abstraction\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\abstraction\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\dal\\repo\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\dal\\repo\\abstraction\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\abstraction\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\dal\\repo\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudtask\\dal\\repo\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\dal\\configuratoin\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\configuratoin\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudtask\\business\\utils\\exception\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\utils\\exception\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\dal\\configuratoin\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\configuratoin\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudtask\\business\\utils\\exception\\negatividexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\utils\\exception\\negatividexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\dal\\migrations\\20241231123545_adddelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20241231123545_adddelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudtask\\business\\utils\\exception\\base\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\utils\\exception\\base\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\core\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|solutionrelative:core\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudtask\\business\\service\\implementation\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\service\\implementation\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudtask\\business\\service\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\service\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudtask\\dal\\configuration\\blogcategoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\configuration\\blogcategoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudtask\\business\\utils\\exception\\negativeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\utils\\exception\\negativeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|c:\\users\\smart\\source\\repos\\crudtask\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|c:\\users\\smart\\source\\repos\\crudtask\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudtask\\dal\\repo\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudtask\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Migrations\\20241230150042_addTable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\20241230150042_addTable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|c:\\users\\smart\\source\\repos\\crudtask\\core\\entities\\blogscategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|solutionrelative:core\\entities\\blogscategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Migrations\\20241230145801_addTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\20241230145801_addTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|c:\\users\\smart\\source\\repos\\crudtask\\core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|solutionrelative:core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudtask\\business\\service\\implementation\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\service\\implementation\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudtask\\business\\dtos\\blog\\getblogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\dtos\\blog\\getblogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|c:\\users\\smart\\source\\repos\\crudtask\\core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|solutionrelative:core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudtask\\dal\\configuration\\blogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\configuration\\blogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|c:\\users\\smart\\source\\repos\\crudtask\\core\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|solutionrelative:core\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|c:\\users\\smart\\source\\repos\\crudtask\\api\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|solutionrelative:api\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudtask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudtask\\dal\\repo\\abstraction\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\abstraction\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudtask\\dal\\repo\\abstraction\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\abstraction\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudtask\\dal\\repo\\abstraction\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\abstraction\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudtask\\business\\mapper\\blogprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\mapper\\blogprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudtask\\business\\dtos\\createcategorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\dtos\\createcategorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|c:\\users\\smart\\source\\repos\\crudtask\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudtask\\dal\\dalprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\dalprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudtask\\business\\service\\interface\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\service\\interface\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudtask\\business\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudtask\\dal\\repo\\interface\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\interface\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\Migrations\\20250108185815_addRelationableTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\20250108185815_addRelationableTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|c:\\users\\smart\\source\\repos\\crudtask\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudtask\\business\\service\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\service\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudtask\\business\\dtos\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\dtos\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudtask\\business\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|c:\\users\\smart\\source\\repos\\crudtask\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudtask\\business\\service\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\service\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudtask\\business\\dtos\\auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\dtos\\auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudtask\\business\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudtask\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|c:\\users\\smart\\source\\repos\\crudtask\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|c:\\users\\smart\\source\\repos\\crudtask\\core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8F1B04-D11D-417F-93E8-558E5D071B45}|Core\\Core.csproj|solutionrelative:core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|c:\\users\\smart\\source\\repos\\crudtask\\business\\dtos\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FAB0D9-EFF8-4B3A-AE30-16BA3CA03226}|Business\\Business.csproj|solutionrelative:business\\dtos\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudtask\\dal\\migrations\\20241231123545_adddelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20241231123545_adddelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Migrations\\20241230150042_addTable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Migrations\\20241230145801_addTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|c:\\users\\smart\\source\\repos\\crudtask\\api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{579B1857-AC54-494C-BA3A-F587828B7B8A}|API\\API.csproj|solutionrelative:api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\dal\\migrations\\20241230151506_addtable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudtask\\dal\\migrations\\20241230151506_addtable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20241230151506_addtable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\dal\\migrations\\20250103110432_addregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudtask\\dal\\migrations\\20250103110432_addregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20250103110432_addregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudapitask\\dal\\migrations\\20250104142320_addlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|c:\\users\\smart\\source\\repos\\crudtask\\dal\\migrations\\20250104142320_addlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D8C9538-C6B4-4BED-80EB-848A897EBBAD}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20250104142320_addlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -210,340 +224,197 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\Service\\Abstraction\\UserService.cs",
-              "RelativeDocumentMoniker": "Business\\Service\\Abstraction\\UserService.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\Service\\Abstraction\\UserService.cs",
-              "RelativeToolTip": "Business\\Service\\Abstraction\\UserService.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAqwDUAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "NegativIdException.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\Utils\\Exception\\NegativIdException.cs",
+              "RelativeDocumentMoniker": "Business\\Utils\\Exception\\NegativIdException.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\Utils\\Exception\\NegativIdException.cs",
+              "RelativeToolTip": "Business\\Utils\\Exception\\NegativIdException.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T10:50:27.085Z",
+              "WhenOpened": "2025-01-08T21:15:15.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\Utils\\Exception\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Business\\Utils\\Exception\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\Utils\\Exception\\NotFoundException.cs",
+              "RelativeToolTip": "Business\\Utils\\Exception\\NotFoundException.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:40:51.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\API\\Program.cs",
-              "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\API\\Program.cs*",
-              "RelativeToolTip": "API\\Program.cs*",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T13:23:30.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\API\\appsettings.json",
-              "RelativeDocumentMoniker": "API\\appsettings.json",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\API\\appsettings.json",
-              "RelativeToolTip": "API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-30T14:44:51.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\Service\\Interface\\IUserService.cs",
-              "RelativeDocumentMoniker": "Business\\Service\\Interface\\IUserService.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\Service\\Interface\\IUserService.cs",
-              "RelativeToolTip": "Business\\Service\\Interface\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T10:50:39.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\API\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\API\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\API\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\API\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "API\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T08:50:02.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\DTOs\\Auth\\RegisterDto.cs",
-              "RelativeDocumentMoniker": "Business\\DTOs\\Auth\\RegisterDto.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\DTOs\\Auth\\RegisterDto.cs",
-              "RelativeToolTip": "Business\\DTOs\\Auth\\RegisterDto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T10:47:59.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpdateCategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\DTOs\\UpdateCategoryDto.cs",
-              "RelativeDocumentMoniker": "Business\\DTOs\\UpdateCategoryDto.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\DTOs\\UpdateCategoryDto.cs",
-              "RelativeToolTip": "Business\\DTOs\\UpdateCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T10:54:56.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAIBJwCYAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T10:58:49.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "20250104142320_AddLogin.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Migrations\\20250104142320_AddLogin.cs",
-              "RelativeDocumentMoniker": "DAL\\Migrations\\20250104142320_AddLogin.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Migrations\\20250104142320_AddLogin.cs",
-              "RelativeToolTip": "DAL\\Migrations\\20250104142320_AddLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T14:23:20.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "API.http",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\API\\API.http",
-              "RelativeDocumentMoniker": "API\\API.http",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\API\\API.http",
-              "RelativeToolTip": "API\\API.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-01-04T13:08:35.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CreateCategoryDTOs.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\DTOs\\CreateCategoryDTOs.cs",
-              "RelativeDocumentMoniker": "Business\\DTOs\\CreateCategoryDTOs.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\DTOs\\CreateCategoryDTOs.cs",
-              "RelativeToolTip": "Business\\DTOs\\CreateCategoryDTOs.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAIBJwBgAAAAFAAAAAAAAAA==",
+              "Title": "IBaseException.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\Utils\\Exception\\Base\\IBaseException.cs",
+              "RelativeDocumentMoniker": "Business\\Utils\\Exception\\Base\\IBaseException.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\Utils\\Exception\\Base\\IBaseException.cs",
+              "RelativeToolTip": "Business\\Utils\\Exception\\Base\\IBaseException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T08:36:46.041Z",
+              "WhenOpened": "2025-01-08T21:09:20.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\DTOs\\Auth\\Program.cs",
-              "RelativeDocumentMoniker": "Business\\DTOs\\Auth\\Program.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\DTOs\\Auth\\Program.cs",
-              "RelativeToolTip": "Business\\DTOs\\Auth\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAmwDMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T12:53:38.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AutoMapper.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\Mapper\\AutoMapper.cs",
-              "RelativeDocumentMoniker": "Business\\Mapper\\AutoMapper.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\Mapper\\AutoMapper.cs",
-              "RelativeToolTip": "Business\\Mapper\\AutoMapper.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBkAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T08:38:37.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\Service\\Abstraction\\CategoryService.cs",
-              "RelativeDocumentMoniker": "Business\\Service\\Abstraction\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\Service\\Abstraction\\CategoryService.cs",
-              "RelativeToolTip": "Business\\Service\\Abstraction\\CategoryService.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAuwC8AAABvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T08:35:51.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\Service\\Interface\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "Business\\Service\\Interface\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\Service\\Interface\\ICategoryService.cs",
-              "RelativeToolTip": "Business\\Service\\Interface\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T08:35:37.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\Service\\Interface\\IProductService.cs",
-              "RelativeDocumentMoniker": "Business\\Service\\Interface\\IProductService.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\Service\\Interface\\IProductService.cs",
-              "RelativeToolTip": "Business\\Service\\Interface\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T12:49:04.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\DTOs\\Auth\\LoginDto.cs",
-              "RelativeDocumentMoniker": "Business\\DTOs\\Auth\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\DTOs\\Auth\\LoginDto.cs",
-              "RelativeToolTip": "Business\\DTOs\\Auth\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T12:41:54.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DalProgram.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\DalProgram.cs",
-              "RelativeDocumentMoniker": "DAL\\DalProgram.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\DalProgram.cs",
-              "RelativeToolTip": "DAL\\DalProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T09:50:14.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DAL.csproj",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\DAL.csproj",
-              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\DAL.csproj",
-              "RelativeToolTip": "DAL\\DAL.csproj",
-              "ViewState": "AgIAAAUAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-30T13:20:03.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "20250103110432_addRegister.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Migrations\\20250103110432_addRegister.cs",
-              "RelativeDocumentMoniker": "DAL\\Migrations\\20250103110432_addRegister.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Migrations\\20250103110432_addRegister.cs",
-              "RelativeToolTip": "DAL\\Migrations\\20250103110432_addRegister.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T11:04:32.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Repo\\Abstraction\\Repository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repo\\Abstraction\\Repository.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Repo\\Abstraction\\Repository.cs",
-              "RelativeToolTip": "DAL\\Repo\\Abstraction\\Repository.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAqwDMAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T13:47:51.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 2,
               "Title": "AddBusinessProgram.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\AddBusinessProgram.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\AddBusinessProgram.cs",
               "RelativeDocumentMoniker": "Business\\AddBusinessProgram.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\AddBusinessProgram.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\AddBusinessProgram.cs",
               "RelativeToolTip": "Business\\AddBusinessProgram.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBcAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T09:24:50.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA5AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\Repo\\Interface\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\Interface\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\Repo\\Interface\\ICategoryRepository.cs",
+              "RelativeToolTip": "DAL\\Repo\\Interface\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T13:20:54.789Z",
+              "WhenOpened": "2024-12-30T14:02:02.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Core\\Entities\\AppUser.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\AppUser.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Core\\Entities\\AppUser.cs",
-              "RelativeToolTip": "Core\\Entities\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "GlobalHandlerException.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\API\\GlobalHandlerException.cs",
+              "RelativeDocumentMoniker": "API\\GlobalHandlerException.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\API\\GlobalHandlerException.cs*",
+              "RelativeToolTip": "API\\GlobalHandlerException.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T09:25:32.557Z",
+              "WhenOpened": "2025-01-08T21:04:29.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Core.csproj",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Core\\Core.csproj",
-              "RelativeDocumentMoniker": "Core\\Core.csproj",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Core\\Core.csproj",
-              "RelativeToolTip": "Core\\Core.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-30T13:26:15.09Z",
+              "DocumentIndex": 7,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\Business\\Service\\Implementation\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Business\\Service\\Implementation\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\Business\\Service\\Implementation\\CategoryService.cs",
+              "RelativeToolTip": "Business\\Service\\Implementation\\CategoryService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwCgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:35:51.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\Business\\Service\\Implementation\\UserService.cs",
+              "RelativeDocumentMoniker": "Business\\Service\\Implementation\\UserService.cs",
+              "ToolTip": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\Business\\Service\\Implementation\\UserService.cs",
+              "RelativeToolTip": "Business\\Service\\Implementation\\UserService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:50:27.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlogCategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\Configuration\\BlogCategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "DAL\\Configuration\\BlogCategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\Configuration\\BlogCategoryConfiguration.cs",
+              "RelativeToolTip": "DAL\\Configuration\\BlogCategoryConfiguration.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:47:41.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NegativeIdException.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\Utils\\Exception\\NegativeIdException.cs",
+              "RelativeDocumentMoniker": "Business\\Utils\\Exception\\NegativeIdException.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\Utils\\Exception\\NegativeIdException.cs",
+              "RelativeToolTip": "Business\\Utils\\Exception\\NegativeIdException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:41:06.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:23:30.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\Repo\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\Repo\\Interface\\IRepository.cs",
+              "RelativeToolTip": "DAL\\Repo\\Interface\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:48:14.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BlogService.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\Service\\Implementation\\BlogService.cs",
+              "RelativeDocumentMoniker": "Business\\Service\\Implementation\\BlogService.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\Service\\Implementation\\BlogService.cs",
+              "RelativeToolTip": "Business\\Service\\Implementation\\BlogService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:25:58.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "API.csproj",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\API\\API.csproj",
+              "DocumentMoniker": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\API\\API.csproj",
               "RelativeDocumentMoniker": "API\\API.csproj",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\API\\API.csproj",
+              "ToolTip": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\API\\API.csproj",
               "RelativeToolTip": "API\\API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -552,154 +423,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CreateProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\DTOs\\Product\\CreateProductDto.cs",
-              "RelativeDocumentMoniker": "Business\\DTOs\\Product\\CreateProductDto.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\DTOs\\Product\\CreateProductDto.cs",
-              "RelativeToolTip": "Business\\DTOs\\Product\\CreateProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "GetBlogDto.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\Business\\DTOs\\Blog\\GetBlogDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Blog\\GetBlogDto.cs",
+              "ToolTip": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\Business\\DTOs\\Blog\\GetBlogDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Blog\\GetBlogDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T12:51:47.956Z",
+              "WhenOpened": "2025-01-08T19:26:49.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Core\\Entities\\Base\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Core\\Entities\\Base\\BaseEntity.cs",
-              "RelativeToolTip": "Core\\Entities\\Base\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Core\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Core\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Core\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T13:35:36.444Z",
+              "WhenOpened": "2025-01-03T09:25:32.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\DAL\\Repo\\Abstraction\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\Abstraction\\BlogRepository.cs",
+              "ToolTip": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\DAL\\Repo\\Abstraction\\BlogRepository.cs",
+              "RelativeToolTip": "DAL\\Repo\\Abstraction\\BlogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:22:18.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "TagsProducts.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Core\\Entities\\TagsProducts.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\TagsProducts.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Core\\Entities\\TagsProducts.cs",
-              "RelativeToolTip": "Core\\Entities\\TagsProducts.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T13:35:16.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\Service\\Abstraction\\ProductService.cs",
-              "RelativeDocumentMoniker": "Business\\Service\\Abstraction\\ProductService.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\Service\\Abstraction\\ProductService.cs",
-              "RelativeToolTip": "Business\\Service\\Abstraction\\ProductService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAiwBoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T12:48:53.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\API\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\API\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "API\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAqwEAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T13:04:18.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Repo\\Interface\\IRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repo\\Interface\\IRepository.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Repo\\Interface\\IRepository.cs",
-              "RelativeToolTip": "DAL\\Repo\\Interface\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T13:48:14.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "UpdateProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\DTOs\\Product\\UpdateProductDto.cs",
-              "RelativeDocumentMoniker": "Business\\DTOs\\Product\\UpdateProductDto.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\DTOs\\Product\\UpdateProductDto.cs",
-              "RelativeToolTip": "Business\\DTOs\\Product\\UpdateProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T17:42:39.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "GetProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\DTOs\\Product\\GetProductDto.cs",
-              "RelativeDocumentMoniker": "Business\\DTOs\\Product\\GetProductDto.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\DTOs\\Product\\GetProductDto.cs",
-              "RelativeToolTip": "Business\\DTOs\\Product\\GetProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T13:27:14.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Core\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Core\\Entities\\Product.cs",
-              "RelativeToolTip": "Core\\Entities\\Product.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T13:34:26.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "GetCategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\DTOs\\GetCategoryDto.cs",
-              "RelativeDocumentMoniker": "Business\\DTOs\\GetCategoryDto.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\DTOs\\GetCategoryDto.cs",
-              "RelativeToolTip": "Business\\DTOs\\GetCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAMwAwAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T10:18:59.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Core\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Core\\Entities\\Category.cs",
-              "RelativeToolTip": "Core\\Entities\\Category.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T13:34:15.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
               "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Repo\\Abstraction\\CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\DAL\\Repo\\Abstraction\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repo\\Abstraction\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Repo\\Abstraction\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\DAL\\Repo\\Abstraction\\CategoryRepository.cs",
               "RelativeToolTip": "DAL\\Repo\\Abstraction\\CategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -708,154 +475,437 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Repo\\Interface\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repo\\Interface\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Repo\\Interface\\IProductRepository.cs",
-              "RelativeToolTip": "DAL\\Repo\\Interface\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "BlogsCategories.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Core\\Entities\\BlogsCategories.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\BlogsCategories.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Core\\Entities\\BlogsCategories.cs",
+              "RelativeToolTip": "Core\\Entities\\BlogsCategories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T12:31:21.974Z",
+              "WhenOpened": "2025-01-08T18:32:23.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Repo\\Abstraction\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repo\\Abstraction\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Repo\\Abstraction\\ProductRepository.cs",
-              "RelativeToolTip": "DAL\\Repo\\Abstraction\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Core\\Entities\\Category.cs",
+              "RelativeToolTip": "Core\\Entities\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T12:31:06.181Z",
+              "WhenOpened": "2024-12-30T13:34:15.224Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Repo\\Interface\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repo\\Interface\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Repo\\Interface\\ICategoryRepository.cs",
-              "RelativeToolTip": "DAL\\Repo\\Interface\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T14:02:02.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "ProductConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Configuratoin\\ProductConfiguration.cs",
-              "RelativeDocumentMoniker": "DAL\\Configuratoin\\ProductConfiguration.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Configuratoin\\ProductConfiguration.cs",
-              "RelativeToolTip": "DAL\\Configuratoin\\ProductConfiguration.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T15:07:28.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "CategoryConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Configuratoin\\CategoryConfiguration.cs",
-              "RelativeDocumentMoniker": "DAL\\Configuratoin\\CategoryConfiguration.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Configuratoin\\CategoryConfiguration.cs",
-              "RelativeToolTip": "DAL\\Configuratoin\\CategoryConfiguration.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T14:33:14.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "20241231123545_addDelete.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Migrations\\20241231123545_addDelete.cs",
-              "RelativeDocumentMoniker": "DAL\\Migrations\\20241231123545_addDelete.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Migrations\\20241231123545_addDelete.cs",
-              "RelativeToolTip": "DAL\\Migrations\\20241231123545_addDelete.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T12:35:45.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Tag.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Core\\Entities\\Tag.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Tag.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Core\\Entities\\Tag.cs",
-              "RelativeToolTip": "Core\\Entities\\Tag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T13:34:39.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 14,
               "Title": "Business.csproj",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\Business.csproj",
+              "DocumentMoniker": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\Business\\Business.csproj",
               "RelativeDocumentMoniker": "Business\\Business.csproj",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\Business\\Business.csproj",
               "RelativeToolTip": "Business\\Business.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-31T08:34:29.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\API\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\API\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "API\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:32:34.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:20:54.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\DAL\\Repo\\Abstraction\\Repository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\Abstraction\\Repository.cs",
+              "ToolTip": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\DAL\\Repo\\Abstraction\\Repository.cs",
+              "RelativeToolTip": "DAL\\Repo\\Abstraction\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:47:51.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BlogConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\DAL\\Configuration\\BlogConfiguration.cs",
+              "RelativeDocumentMoniker": "DAL\\Configuration\\BlogConfiguration.cs",
+              "ToolTip": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\DAL\\Configuration\\BlogConfiguration.cs",
+              "RelativeToolTip": "DAL\\Configuration\\BlogConfiguration.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:33:14.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Core\\Entities\\Blog.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Blog.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Core\\Entities\\Blog.cs",
+              "RelativeToolTip": "Core\\Entities\\Blog.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:29:53.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateCategoryDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\DTOs\\CreateCategoryDTOs.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\CreateCategoryDTOs.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\DTOs\\CreateCategoryDTOs.cs",
+              "RelativeToolTip": "Business\\DTOs\\CreateCategoryDTOs.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:36:46.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\Mapper\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "Business\\Mapper\\AutoMapper.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\Mapper\\AutoMapper.cs",
+              "RelativeToolTip": "Business\\Mapper\\AutoMapper.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:38:37.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BlogProfile.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\Business\\Mapper\\BlogProfile.cs",
+              "RelativeDocumentMoniker": "Business\\Mapper\\BlogProfile.cs",
+              "ToolTip": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\Business\\Mapper\\BlogProfile.cs",
+              "RelativeToolTip": "Business\\Mapper\\BlogProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:27:55.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:58:49.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DalProgram.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\DalProgram.cs",
+              "RelativeDocumentMoniker": "DAL\\DalProgram.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\DalProgram.cs",
+              "RelativeToolTip": "DAL\\DalProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T09:50:14.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IBlogService.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\Service\\Interface\\IBlogService.cs",
+              "RelativeDocumentMoniker": "Business\\Service\\Interface\\IBlogService.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\Service\\Interface\\IBlogService.cs",
+              "RelativeToolTip": "Business\\Service\\Interface\\IBlogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:25:48.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IBlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\Repo\\Interface\\IBlogRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\Interface\\IBlogRepository.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\Repo\\Interface\\IBlogRepository.cs",
+              "RelativeToolTip": "DAL\\Repo\\Interface\\IBlogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:22:32.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250108185815_addRelationableTables.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\Migrations\\20250108185815_addRelationableTables.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250108185815_addRelationableTables.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\Migrations\\20250108185815_addRelationableTables.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250108185815_addRelationableTables.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAADYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:58:15.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T14:44:51.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\Service\\Interface\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Business\\Service\\Interface\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\Service\\Interface\\ICategoryService.cs",
+              "RelativeToolTip": "Business\\Service\\Interface\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:35:37.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Auth\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Auth\\RegisterDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:47:59.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\Service\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Business\\Service\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\Service\\Interface\\IUserService.cs",
+              "RelativeToolTip": "Business\\Service\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:50:39.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UpdateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\DTOs\\UpdateCategoryDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\UpdateCategoryDto.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\DTOs\\UpdateCategoryDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\UpdateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T10:54:56.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20250104142320_AddLogin.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\Migrations\\20250104142320_AddLogin.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250104142320_AddLogin.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\Migrations\\20250104142320_AddLogin.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250104142320_AddLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:23:20.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "API.http",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\API\\API.http",
+              "RelativeDocumentMoniker": "API\\API.http",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\API\\API.http",
+              "RelativeToolTip": "API\\API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-04T13:08:35.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\DTOs\\Auth\\Program.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Auth\\Program.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\DTOs\\Auth\\Program.cs",
+              "RelativeToolTip": "Business\\DTOs\\Auth\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:53:38.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Auth\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Auth\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:41:54.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T13:20:03.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20250103110432_addRegister.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\Migrations\\20250103110432_addRegister.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250103110432_addRegister.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\Migrations\\20250103110432_addRegister.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250103110432_addRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T11:04:32.462Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 44,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T13:26:15.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Core\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Core\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:35:36.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\DTOs\\GetCategoryDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\GetCategoryDto.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\Business\\DTOs\\GetCategoryDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\GetCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAMwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T10:18:59.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20241231123545_addDelete.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\Migrations\\20241231123545_addDelete.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20241231123545_addDelete.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\Migrations\\20241231123545_addDelete.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20241231123545_addDelete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T12:35:45.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
               "Title": "20241230150042_addTable1.cs",
               "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Migrations\\20241230150042_addTable1.cs",
-              "RelativeDocumentMoniker": "DAL\\Migrations\\20241230150042_addTable1.cs",
+              "RelativeDocumentMoniker": "..\\CrudApiTask\\DAL\\Migrations\\20241230150042_addTable1.cs",
               "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Migrations\\20241230150042_addTable1.cs",
-              "RelativeToolTip": "DAL\\Migrations\\20241230150042_addTable1.cs",
+              "RelativeToolTip": "..\\CrudApiTask\\DAL\\Migrations\\20241230150042_addTable1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T15:00:42.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 49,
               "Title": "20241230145801_addTable.cs",
               "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Migrations\\20241230145801_addTable.cs",
-              "RelativeDocumentMoniker": "DAL\\Migrations\\20241230145801_addTable.cs",
+              "RelativeDocumentMoniker": "..\\CrudApiTask\\DAL\\Migrations\\20241230145801_addTable.cs",
               "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Migrations\\20241230145801_addTable.cs",
-              "RelativeToolTip": "DAL\\Migrations\\20241230145801_addTable.cs",
+              "RelativeToolTip": "..\\CrudApiTask\\DAL\\Migrations\\20241230145801_addTable.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T14:58:01.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 51,
               "Title": "20241230151506_addTable1.cs",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Migrations\\20241230151506_addTable1.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\Migrations\\20241230151506_addTable1.cs",
               "RelativeDocumentMoniker": "DAL\\Migrations\\20241230151506_addTable1.cs",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\DAL\\Migrations\\20241230151506_addTable1.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\CRUDTASK\\DAL\\Migrations\\20241230151506_addTable1.cs",
               "RelativeToolTip": "DAL\\Migrations\\20241230151506_addTable1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T15:15:06.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T15:15:06.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 50,
               "Title": "API",
-              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\API\\API.csproj",
+              "DocumentMoniker": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\API\\API.csproj",
               "RelativeDocumentMoniker": "API\\API.csproj",
-              "ToolTip": "C:\\Users\\smart\\source\\repos\\CrudApiTask\\API\\API.csproj",
+              "ToolTip": "C:\\Users\\smart\\Source\\Repos\\CRUDTASK\\API\\API.csproj",
               "RelativeToolTip": "API\\API.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-30T14:43:46.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T14:43:46.757Z"
             }
           ]
         }

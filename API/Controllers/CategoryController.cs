@@ -1,5 +1,7 @@
 ﻿using Business.DTOs;
 using Business.Service.Interface;
+using Business.Utils.Exception;
+using Core.Entities;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Http.HttpResults;
@@ -9,7 +11,7 @@ namespace API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    /*[Authorize]*/
     public class CategoryController : ControllerBase
     {
         ICategoryService categoryService;
@@ -22,29 +24,19 @@ namespace API.Controllers
         [HttpPost]
         public async Task<IActionResult> Create([FromForm] CreateCategoryDTOs dto)
         {
-            try
-            {
 
                 return Ok(await categoryService.CreateAsync(dto));
 
-            }
-            catch (Exception ex)
-            {
-                return Ok(ex.Message);
-            }
         }
 
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {
-            try
-            {
+            
+          
                 return Ok(await categoryService.GetById(id));
-            }
-            catch (Exception ex)
-            {
-                return Ok(ex.Message);
-            }
+            
+            
         }
         [HttpGet]
         public IActionResult GetAll()
@@ -55,16 +47,11 @@ namespace API.Controllers
         [HttpPut]
         public async Task<IActionResult> Put(UpdateCategoryDto dto)
         {
-            try
-            {
+         
 
                 await categoryService.Update(dto);
                 return Ok();
-            }
-            catch (Exception ex)
-            {
-                return Ok(ex.Message);
-            }
+            
         }
 
         [HttpDelete]
