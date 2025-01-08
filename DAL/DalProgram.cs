@@ -15,7 +15,6 @@ namespace DAL
         public static void AddDALProgram(this IServiceCollection services)
         {
             services.AddScoped<ICategoryRepository, CategoryRepository>();
-            services.AddScoped<IProductRepository, ProductRepository>();
             
         }
     }

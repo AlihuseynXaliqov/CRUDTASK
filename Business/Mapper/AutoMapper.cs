@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 using AutoMapper;
 using Business.DTOs;
 using Business.DTOs.Auth;
-using Business.DTOs.Product;
 using Core.Entities;
 
 namespace Business.Mapper
@@ -19,9 +18,6 @@ namespace Business.Mapper
             CreateMap<GetCategoryDto,Category>().ReverseMap();
             CreateMap<UpdateCategoryDto,GetCategoryDto>().ReverseMap();
 
-            CreateMap<CreateProductDto,Product>().ReverseMap();
-            CreateMap<Product, GetProductDto>().ReverseMap();
-            CreateMap<GetProductDto,UpdateProductDto>().ReverseMap();
 
             CreateMap<AppUser,RegisterDto>().ReverseMap();
 

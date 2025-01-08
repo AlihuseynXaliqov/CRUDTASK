@@ -918,7 +918,14 @@
           }
         }
       },
-      "System.Formats.Asn1/8.0.1": {},
+      "System.Formats.Asn1/8.0.1": {
+        "runtime": {
+          "lib/net8.0/System.Formats.Asn1.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.724.31311"
+          }
+        }
+      },
       "System.IdentityModel.Tokens.Jwt/7.1.2": {
         "dependencies": {
           "Microsoft.IdentityModel.JsonWebTokens": "7.1.2",
@@ -1046,10 +1053,7 @@
           "FluentValidation.AspNetCore": "11.3.0"
         },
         "runtime": {
-          "Business.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Business.dll": {}
         }
       },
       "Core/1.0.0": {
@@ -1057,10 +1061,7 @@
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.11"
         },
         "runtime": {
-          "Core.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Core.dll": {}
         }
       },
       "DAL/1.0.0": {
@@ -1071,10 +1072,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.11"
         },
         "runtime": {
-          "DAL.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "DAL.dll": {}
         }
       }
     }

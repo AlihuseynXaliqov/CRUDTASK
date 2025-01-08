@@ -11,6 +11,5 @@ namespace Core.Entities
     {
         public string Name { get; set; }
 
-        public IQueryable<Product> Products { get; set; }
     }
 }

@@ -13,22 +13,7 @@ namespace DAL.Configuratoin
     {
         public void Configure(EntityTypeBuilder<Category> builder)
         {
-            builder.HasKey(x => x.Id);
-
-            builder.Property(x => x.Id)
-                .ValueGeneratedOnAdd();
-
-            builder.Property(x => x.Name)
-                .IsRequired()
-                .HasMaxLength(20);
-
-            builder.HasMany(x => x.Products)
-                .WithOne()
-                .HasForeignKey(x => x.CategoryId)
-                .OnDelete(DeleteBehavior.Cascade);
-
-            builder.ToTable("Categories");
-
+           
 
         }
     }
